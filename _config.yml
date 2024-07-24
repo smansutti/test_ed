@@ -50,6 +50,9 @@ exclude:
   - backstop_data
   - backstop.json
 
+# Build settings
+remote_theme: Ed.
+
 # Theme
 # (Used for local or custom-server deployments)
 # Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
