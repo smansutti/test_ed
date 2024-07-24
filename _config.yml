@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
+title:               Test
 tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+description:         'Digital edition of letters and newsletters.'
+url:                 'http://smansutti.github.io'
+baseurl:             '/test_ed'
 
 # About/contact
 author:
   name:              Sara Mansutti
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  url:               xxx
+  email:             xxx
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
