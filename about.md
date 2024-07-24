@@ -57,3 +57,6 @@ for you, Kindle!
 
 To learn how to install and begin using Ed, please visit our
 [documentation page](http://minicomp.github.io/ed/documentation).
+
+## Table of Contents
+{% include toc.html %}
