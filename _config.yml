@@ -51,7 +51,7 @@ exclude:
   - backstop.json
 
 # Build settings
-remote_theme: Ed.
+theme: jekyll-theme-ed.
 
 # Theme
 # (Used for local or custom-server deployments)
