@@ -3,7 +3,7 @@
 # Setup
 title:               Cosimo’s Cosmos: Cosimo Bartoli and Renaissance News
 tagline:             'a semi-automated edition of Cosimo Bartoli's letters and newsletters from Venice (1562-1572)'
-description:         'A semi-automated edition of Cosimo Bartoli's letters and newsletters'
+description:         'a semi-automated edition of Cosimo Bartoli's letters and newsletters'
 url:                 'http://smansutti.github.io'
 baseurl:             '/test_ed'
 
@@ -54,7 +54,7 @@ exclude:
 # (Used for local or custom-server deployments)
 # Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
 # See https://jekyllrb.com/docs/themes/
-# theme: "ed."
+# theme: ".theme-base-0b"
 
 # Remote Theme
 # (Used only for GitHub deployments)
