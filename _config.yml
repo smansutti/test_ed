@@ -1,9 +1,9 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Test
-tagline:             'a jekyll theme for minimal editions'
-description:         'Digital edition of letters and newsletters.'
+title:               Cosimo’s Cosmos: Cosimo Bartoli and Renaissance News
+tagline:             'a semi-automated edition of Cosimo Bartoli's letters and newsletters from Venice (1562-1572)'
+description:         'A semi-automated edition of Cosimo Bartoli's letters and newsletters'
 url:                 'http://smansutti.github.io'
 baseurl:             '/test_ed'
 
@@ -14,7 +14,7 @@ author:
   email:             xxx
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: 
 
 # Permalinks
 permalink: pretty
