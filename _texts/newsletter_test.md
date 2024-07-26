@@ -8,7 +8,7 @@ letter: xxx
 editor: Sara Mansutti
 ---
 
-<center>Per l⁀re de .6. di Roma di Gennaro 1562</center>  
+<strong>Per l⁀re de .6. di Roma di Gennaro 1562</strong>  
 Che la Mattina in una congregatione Generale S. S.ta haveva fatti senza  
 cħ alcuno il sapesse duoi Car:li lo Ill:mo Dō Ernando de Medici et lo Ill:mo  
 Don Federigo gonzaga. et cħ sebene non se ne sapeva cosa alcuna. nō  
@@ -19,7 +19,8 @@ Che il Papa affermava cōstantissimamēte voler andare a Bologna fatto .S. An
 tonio, et cħ ꝑ tal gita haveva già ordinato et comesso si facessero certe  
 spese dal Maiordomo et d'altri ministri cħ occorrono in simili gite  
 et ꝑ i suoi più intimi si teneva la gita ꝑ certa. tāto lo avverava S. S.ta  
-<center>Ꝑ. l⁀re del po di Frieburgo.</center>  
+---
+<strong>Ꝑ. l⁀re del po di Frieburgo.</strong>  
 Cħ S. M.sta Ces:ea attendeva in q⁀e sue visite a mettere grā numero di danari  
 insieme et cħ da Frieburgo Cavava 2̅5̅m fior⁀i l anno ꝑ .5. anni, et altrettāti  
 da Constantia, et cħ tutte le terre cħ S. M.ta visitava li davano grosso  
@@ -35,7 +36,8 @@ na. né cō artiglierie né sanza, et cħ quelle cħ eran fuori dovessero tor
 nare alle case loro alla sfilata, senza ordinanza o, senza artiglierie.  
 et nō tornando s intendessino esser ribelli dello Imꝑio et così ancora  
 quei potentati cħ le raccettassino o favorissino in simil maniera.  
-<center>Per l⁀re de 29 del passato di Parigi.</center>  
+---
+<strong>Per l⁀re de 29 del passato di Parigi.</strong>  
 Cħ il Contestabile haveva scritto al Re Christianiss:o cħ proccurassi liberamēte  
 alla salute dello stato et Regno suo, senza alcū rispetto della ꝑsona sua, cħ hora  
 mai, era vecchio, et da potere esser poco utile a cosa alcuna. ꝑò cħ havesse solo  
