@@ -6,7 +6,7 @@ date: 17-06-1566
 place: Venice
 sender: Cosimo Bartoli
 recipient: Cosimo de' Medici
-newsletter: <a href="texts/newsletter_test/">Example Newsletter</a>
+newsletter: <a href="https://smansutti.github.io/test_ed/texts/newsletter_test/">Example Newsletter</a>
 reviewed: true
 editor: Sara Mansutti
 ---
