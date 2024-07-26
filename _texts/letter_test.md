@@ -7,6 +7,7 @@ place: Venice
 sender: Cosimo Bartoli
 recipient: Cosimo de' Medici
 newsletter: <a href="texts/newsletter_test/">Example Newsletter</a>
+reviewed: true
 editor: Sara Mansutti
 ---
 
