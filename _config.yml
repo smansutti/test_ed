@@ -2,8 +2,8 @@
 
 # Setup
 title:               Cosimo Bartoli and Renaissance News
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+tagline:             'a semi-automated edition of Bartoli's letters and newsletters from Venice, 1562-1572'
+description:         'a semi-automated edition of Bartoli's letters and newsletters from Venice, 1562-1572'
 url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
