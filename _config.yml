@@ -2,8 +2,8 @@
 
 # Setup
 title:               Cosimo Bartoli and Renaissance News
-tagline:             'a semi-automated edition of Bartoli's letters and newsletters from Venice, 1562-1572'
-description:         'a semi-automated edition of Bartoli's letters and newsletters from Venice, 1562-1572'
+tagline:             'a semi-automated edition of letters and newsletters from Venice'
+description:         'a semi-automated edition of letters and newsletters from Venice'
 url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
