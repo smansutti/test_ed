@@ -4,7 +4,7 @@ title: Example Newsletter
 shelfmark: Mediceo del Principato, 3079 f. 145r
 hubs: Rome (15-06-1562), Vienna (14-06-1562)
 writer: Cosimo Bartoli
-letter: "[Example Letter](test_ed/texts/newsletter_test.html)"
+letter: "[Example Letter](https://smansutti.github.io/test_ed/texts/letter_test/)"
 editor: Sara Mansutti
 ---
 
