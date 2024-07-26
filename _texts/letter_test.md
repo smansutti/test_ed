@@ -10,6 +10,7 @@ newsletter: xxx
 editor: Sara Mansutti
 ---
 
+
 Illustrissimo et eccellentissimo Signor et Patron mio osservantissimo  
 Sabato arrivò qui il Cardinale de Loreno, et lunedì mattina hebbe audientia da questi Clarissimi  
 dove publicamente fece una accomodata orazionetta, la somma della quale fu che tro  
