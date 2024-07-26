@@ -5,7 +5,7 @@ shelfmark: Mediceo del Principato, 3079 f. 145r
 hubs: Rome (15-06-1562), Vienna (14-06-1562)
 writer: Cosimo Bartoli
 letter: <a href="https://smansutti.github.io/test_ed/texts/letter_test/">Example Letter</a>
-reviewed: Yes
+reviewed: true
 editor: Sara Mansutti
 ---
 
